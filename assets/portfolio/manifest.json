@@ -1,0 +1,74 @@
+{
+  "catalog": [
+    "/assets/portfolio/catalog/catalog_1.jpg",
+    "/assets/portfolio/catalog/catalog_2.jpg",
+    "/assets/portfolio/catalog/catalog_3.jpg",
+    "/assets/portfolio/catalog/catalog_4.jpg",
+    "/assets/portfolio/catalog/catalog_5.jpg",
+    "/assets/portfolio/catalog/catalog_6.jpg",
+    "/assets/portfolio/catalog/catalog_7.jpg",
+    "/assets/portfolio/catalog/catalog_8.png"
+  ],
+  "food": [
+    "/assets/portfolio/food/food_1.jpg",
+    "/assets/portfolio/food/food_2.jpg",
+    "/assets/portfolio/food/food_3.jpg",
+    "/assets/portfolio/food/food_4.jpg",
+    "/assets/portfolio/food/food_5.jpg",
+    "/assets/portfolio/food/food_6.jpg",
+    "/assets/portfolio/food/food_7.jpg",
+    "/assets/portfolio/food/food_8.png"
+  ],
+  "fashion": [
+    "/assets/portfolio/fashion/fashion_1.jpg",
+    "/assets/portfolio/fashion/fashion_2.jpg",
+    "/assets/portfolio/fashion/fashion_3.jpg",
+    "/assets/portfolio/fashion/fashion_4.jpg",
+    "/assets/portfolio/fashion/fashion_5.jpg",
+    "/assets/portfolio/fashion/fashion_6.jpg",
+    "/assets/portfolio/fashion/fashion_7.jpg",
+    "/assets/portfolio/fashion/fashion_8.jpg",
+    "/assets/portfolio/fashion/fashion_9.jpg",
+    "/assets/portfolio/fashion/fashion_10.jpg"
+  ],
+  "beauty": [
+    "/assets/portfolio/beauty/beauty_1.jpg",
+    "/assets/portfolio/beauty/beauty_2.jpg",
+    "/assets/portfolio/beauty/beauty_3.jpg",
+    "/assets/portfolio/beauty/beauty_4.jpg",
+    "/assets/portfolio/beauty/beauty_5.jpg",
+    "/assets/portfolio/beauty/beauty_6.jpg",
+    "/assets/portfolio/beauty/beauty_7.jpg",
+    "/assets/portfolio/beauty/beauty_8.jpg",
+    "/assets/portfolio/beauty/beauty_9.jpg",
+    "/assets/portfolio/beauty/beauty_10.jpg"
+  ],
+  "realestate": [
+    "/assets/portfolio/realestate/realestate_1.jpg",
+    "/assets/portfolio/realestate/realestate_2.jpg",
+    "/assets/portfolio/realestate/realestate_3.jpg",
+    "/assets/portfolio/realestate/realestate_4.jpg",
+    "/assets/portfolio/realestate/realestate_5.jpg",
+    "/assets/portfolio/realestate/realestate_6.jpg",
+    "/assets/portfolio/realestate/realestate_7.jpg",
+    "/assets/portfolio/realestate/realestate_8.jpg",
+    "/assets/portfolio/realestate/realestate_9.jpg",
+    "/assets/portfolio/realestate/realestate_10.jpg"
+  ],
+  "event": [
+    "/assets/portfolio/event/event_1.jpg",
+    "/assets/portfolio/event/event_2.png"
+  ],
+  "wedding": [
+    "/assets/portfolio/wedding/wedding_1.jpg",
+    "/assets/portfolio/wedding/wedding_2.png"
+  ],
+  "product": [
+    "/assets/portfolio/product/product_1.jpg",
+    "/assets/portfolio/product/product_2.jpg",
+    "/assets/portfolio/product/product_3.jpg",
+    "/assets/portfolio/product/product_4.jpg",
+    "/assets/portfolio/product/product_5.jpg",
+    "/assets/portfolio/product/product_6.png"
+  ]
+}
